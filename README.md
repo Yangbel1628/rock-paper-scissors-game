@@ -6,7 +6,7 @@ A fun and interactive **Rock Paper Scissors** game built using **HTML**, **CSS**
 
 ## 🚀 Live Demo
 
-👉 [Click Here to Play](https://your-vercel-link.vercel.app)
+👉 live coming soon...
 
 ---
 
